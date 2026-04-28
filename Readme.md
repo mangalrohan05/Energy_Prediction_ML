@@ -75,4 +75,4 @@ In this project, we use **Deep Learning (LSTM)** to model sequential patterns in
 
 ## 📉 Prediction vs Actual Plot
 
-![Prediction vs Actual](path/to/your/image.png)
+![Prediction vs Actual](image.png)
