@@ -75,7 +75,4 @@ In this project, we use **Deep Learning (LSTM)** to model sequential patterns in
 
 ## 📉 Prediction vs Actual Plot
 
-> Replace the image path below with your saved plot
-
-```markdown
 ![Prediction vs Actual](path/to/your/image.png)
